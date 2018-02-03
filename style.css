@@ -53,13 +53,6 @@
 /* End of Calendar Day Grid CSS */
 
 
-#content_container {
-  width: 30%;
-  height: 30%;
-
-  border: 5px solid blue;
-}
-
 #glance_container {
   height: 6.65%;
 }
@@ -81,8 +74,7 @@
 }
 
 #body_content_container {
-  height: calc(100% - (120px));
-  border: 10px solid red;
+  height: 1000px;
 }
 
 
