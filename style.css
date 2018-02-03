@@ -77,8 +77,8 @@ body {
 }
 
 #body_content_container {
-  height: 1000px;
-
+  height: calc(100% - (120px));
+  border: 10px solid red;
 }
 
 
